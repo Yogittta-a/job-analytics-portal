@@ -16,7 +16,7 @@ The dashboards were built using Tableau and reflect both the **training-based pr
 
 ## 📁 Repository Contents
 Live Netlify Link: https://job-analyticsportal.netlify.app/
-GitHub Repository: https://github.com/Yogittta-a/job-analytics-portal
+GitHub Repository: https://github.com/Yogittta-a/job-analytics-portal/tree/main
 
 
 ## 🔗 Deployment
