@@ -24,7 +24,7 @@ GitHub Repository:
 
 The complete project has been deployed using **Netlify**, allowing interactive access to dashboards and reports.
 
-➡️ **Live Project URL**: https://job-analyticsportal.netlify.app/
+➡️ **Live Project URL**: 
 
 ## 📬 Submission Details
 
