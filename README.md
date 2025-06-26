@@ -15,9 +15,9 @@ The **Job Analytics Portal** project aims to visualize and analyze various job-r
 The dashboards were built using Tableau and reflect both the **training-based project** work and the **assigned internship tasks**.
 
 ## 📁 Repository Contents
-Live Netlify Link: https://job-analyticsportal.netlify.app/
+Live Netlify Link: 
 
-GitHub Repository: https://github.com/Yogittta-a/job-analytics-portal/tree/main
+GitHub Repository: 
 
 
 ## 🔗 Deployment
