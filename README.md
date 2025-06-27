@@ -26,6 +26,8 @@ The complete project has been deployed using **Netlify**, allowing interactive a
 
 ➡️ **Live Project URL**: 
 
+NOTE:-Due to Tableau Public’s cache-based refresh cycle, visibility may slightly delay by a few minutes after the set time.
+
 ## 📬 Submission Details
 
 - Project deployed on Netlify
