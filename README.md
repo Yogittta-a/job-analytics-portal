@@ -24,7 +24,7 @@ GitHub Repository: https://github.com/Yogittta-a/job-analytics-portal/tree/main
 
 The complete project has been deployed using **Netlify**, allowing interactive access to dashboards and reports.
 
-➡️ **Live Project URL**: 
+➡️ **Live Project URL**: https://github.com/Yogittta-a/job-analytics-portal/tree/main
 
 NOTE:-Due to Tableau Public’s cache-based refresh cycle, visibility may slightly delay by a few minutes after the set time.
 
